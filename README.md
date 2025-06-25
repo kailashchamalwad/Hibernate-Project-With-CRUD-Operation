@@ -6,11 +6,11 @@
 📄 Description
 A simple Java-based CRUD application that performs Create, Read, Update, and Delete operations using Hibernate ORM and MySQL database. This project demonstrates the use of Hibernate for database interaction in a real-world scenario.
 
-🛠️ Tech Stack
-Java
-Hibernate (ORM)
-MySQL
-Maven (optional)
+🛠️ Tech Stack <br>
+Java <br>
+Hibernate (ORM) <br>
+MySQL<br>
+Maven <br>
 Eclipse/IntelliJ IDEA
 
 
