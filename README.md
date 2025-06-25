@@ -7,6 +7,9 @@ A simple Java-based CRUD application that performs Create, Read, Update, and Del
 🛠️ Tech Stack <br>
 Java <br>
 Hibernate (ORM) <br>
+Spring Boot Framework<br>
+HTML, CSS, JS <br>
+SQL <br>
 MySQL<br>
 Maven <br>
 Eclipse/IntelliJ IDEA <br><br>
