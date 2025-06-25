@@ -14,10 +14,10 @@ Maven <br>
 Eclipse/IntelliJ IDEA
 
 
-✅ Features
-Add new student records
-View student details
-Update existing student information
-Delete student records
-Hibernate configuration with annotations/XML
+✅ Features <br>
+Add new student records <br>
+View student details<br>
+Update existing student information<br>
+Delete student records<br>
+Hibernate configuration with annotations/XML<br>
 Clean DAO layer using Hibernate SessionFactory
