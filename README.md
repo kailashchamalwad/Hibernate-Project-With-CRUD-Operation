@@ -1,9 +1,7 @@
-# Hibernate-Project-With-CRUD-Operation
-
 📌 Project Title
 # Student Management System - Hibernate CRUD
 
-📄 Description
+📄 Description <br>
 A simple Java-based CRUD application that performs Create, Read, Update, and Delete operations using Hibernate ORM and MySQL database. This project demonstrates the use of Hibernate for database interaction in a real-world scenario.
 
 🛠️ Tech Stack <br>
