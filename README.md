@@ -22,20 +22,20 @@ Clean DAO layer using Hibernate SessionFactory
 <br><br><br>
 
 
-🧾 Folder Structure
-css
-Copy
-Edit
-/src
- └── main
-     ├── java
-     │   └── com.example.hibernate
-     │       ├── Main.java
-     │       ├── Student.java
-     │       ├── StudentDAO.java
-     │       └── HibernateUtil.java
-     └── resources
-         └── hibernate.cfg.xml
+🧾 Folder Structure<br>
+css<br>
+Copy<br>
+Edit<br>
+/src<br>
+ └── main<br>
+     ├── java<br>
+     │   └── com.example.hibernate<br>
+     │       ├── Main.java<br>
+     │       ├── Student.java<br>
+     │       ├── StudentDAO.java<br>
+     │       └── HibernateUtil.java<br>
+     └── resources<br>
+         └── hibernate.cfg.xml<br>
 <br> <br> <br>
 
 
